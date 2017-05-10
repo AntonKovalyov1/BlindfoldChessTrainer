@@ -8,4 +8,4 @@ This interface, apart from including my own basic chess engine, has the flexibil
 
 Connecting UCI engines to the GUI was partly done thanks to code from https://github.com/tondeur-h/UCIChess/blob/master/src/ucichess/UCIChess.java.
 
-The program is completely functional, some testing is still necessary though. Before release I will remove the basic engine and I will replace it whether with a free source engine such as the two mentioned above, or write one myself in C++ and make it UCI compliant to be run on any other chess GUI such as mine.
+The program is completely functional, some testing is still necessary though. Before release I will remove the default custom engine and I will replace it, whether with a free source engine, such as the two mentioned above, or write one myself in C++ and make it UCI compliant to be run on any other chess GUI such as mine.
